@@ -18,6 +18,12 @@ The DM's aim is to find the decision $d$ that give it the best consquence $x$ wh
 [[Utility]]
 [[Belief & Plausibility]]
 
+
+## Markov Decision Process (MDP)
+
+[[Markov Decision Process]]
+[[Policy Iteration]]
+
 ## TD Exo 4
 
 ![[SmartSelect_20231002_134119_touchnotes.jpg]]
