@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "be77ca8fb3878793",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed96af1076c85ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01368147561a946f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Polys/advanced_ai_td.pdf"
+              }
+            }
+          },
+          {
+            "id": "8ccf86d31855a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Polys/poly_ia_avancee.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c3dac72bb4d0a39",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac8c026c4cf237fc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6771661449327b20",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1789479d2e51cf78",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "66d1ed20f560281b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0e78415bf8f92ae2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7bd4af21f5b050df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Polys/advanced_ai_td.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3d1fb09588a9657f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Polys/advanced_ai_td.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e579f206cf984992",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Polys/advanced_ai_td.pdf"
+          }
+        }
+      },
+      {
+        "id": "b6f5216e9585ebf6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01368147561a946f",
+  "lastOpenFiles": [
+    "Polys/poly_ia_avancee.pdf",
+    "Notes/Advanced AI - Decision Making.md",
+    "Polys/advanced_ai_td.pdf",
+    "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
+    "Screens/New infinite note-1_9b0.png",
+    "Syllabus.md",
+    "Notes/Vision.md",
+    "Screens/Pasted image 20230925145856.png",
+    "Notes/Step 1 - Installation Ingescape.md",
+    "Notes/Fourier-Gabor.md",
+    "Screens/Pasted image 20231002102351.png",
+    "Notes/Perception 3D.md",
+    "Homework Kanban.md",
+    "Notes/Moravec detector.md",
+    "Homework.md",
+    "Notes/Motion planning et Robotique humanoïde.md",
+    "Notes/Interactions distribuées.md",
+    "Polys/Vision.pdf",
+    "Notes/Texture.md",
+    "Notes/Discrete Cosine Transform.md",
+    "Notes/Harris detector.md",
+    "Screens/Pasted image 20230929103155.png",
+    "Notes/Vision et IA.md",
+    "Notes/Co-occurence Matrices.md",
+    "Notes/IA et dialogue oral.md",
+    "Notes/Form.md",
+    "Screens/Pasted image 20230929110958.png",
+    "Notes/Discrete Wavelet Transform.md",
+    "Screens/Pasted image 20230925145703.png",
+    "Notes/Revolution in industry.md",
+    "Notes/Langues.md",
+    "Screens/Pasted image 20230929112547.png",
+    "Notes/Coop Multi-robots.md",
+    "Notes/Scale Invariant Feature Transform (SIFT).md",
+    "Notes/Logistique.md"
+  ]
+}

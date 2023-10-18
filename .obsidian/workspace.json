@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "849248faeadb5495",
+    "type": "split",
+    "children": [
+      {
+        "id": "a462f80512944c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6467a50fbd2f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e9934bcf6004842",
+    "type": "split",
+    "children": [
+      {
+        "id": "474464f829f727af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "673ff2e3ed1398d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "945fef7d1325cc71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d046d4857383bf90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd6be95f8cb03f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "2efbbbece51af2f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded5d20571536a00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "858c233b40d0304c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Syllabus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23b5dcd4e462f2ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3661942a5c87e089",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Syllabus.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "673ff2e3ed1398d9",
+  "lastOpenFiles": [
+    "Notes/VR as a disruptive innovation.md",
+    "Notes/Revolution in industry.md",
+    "Notes/Langues.md",
+    "Syllabus.md",
+    "Notes/Robotique Humanoïde.md",
+    "Notes/Motion planning et Robotique humanoïde.md",
+    "Notes/Advanced AI - Decision Making.md",
+    "Notes/Utility.md",
+    "Notes/Belief & Plausibility.md",
+    "Notes/Scale Invariant Feature Transform (SIFT).md",
+    "Notes/Harris detector.md",
+    "Notes/Moravec detector.md",
+    "Polys/CM_Motion_plannning.pdf",
+    "Polys/poly_ia_avancee.pdf",
+    "Polys/motion_planning_rtt_algorithms.pdf",
+    "Planning/Week 42 (16-10 to 20-10).md",
+    "Notes/PGE.md",
+    "Planning",
+    "Notes/3D Modeling.md",
+    "Notes/Perception 3D.md",
+    "Notes/Structure from Motion (SFM).md",
+    "Notes/Camera self-calibration.md",
+    "Notes/Logistique.md",
+    "Notes/Interactions distribuées.md",
+    "Polys/advanced_ai_td.pdf",
+    "Polys/poly_perception_3d.pdf",
+    "Notes/Step 1 - Installation Ingescape.md",
+    "Notes/Vision.md",
+    "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
+    "Screens/New infinite note-1_9b0.png",
+    "Notes/Fourier-Gabor.md",
+    "Notes/Discrete Wavelet Transform.md",
+    "Notes/Discrete Cosine Transform.md",
+    "Notes/Coop Multi-robots.md",
+    "Screens/Pasted image 20231002102351.png",
+    "Polys/Vision.pdf",
+    "Screens/Pasted image 20230929112547.png",
+    "Screens/Pasted image 20230929110958.png",
+    "Screens/Pasted image 20230929103155.png",
+    "Screens/Pasted image 20230925145856.png",
+    "Screens/Pasted image 20230925145703.png",
+    "Polys/syllabus 3A.pdf",
+    "Polys/poly_multirobot_1.pdf",
+    "Polys/poly_multirobot_2.pdf",
+    "Screens/Pasted image 20230920154648.png",
+    "Screens/Pasted image 20230919172805.png",
+    "Untitled.canvas"
+  ]
+}
