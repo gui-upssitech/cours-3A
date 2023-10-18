@@ -1,3 +1,5 @@
+Tags: #perception-3d 
+
 Pages [[poly_perception_3d.pdf#page=25||25]] to [[poly_perception_3d.pdf#page=41||41]]
 
 ## Iterative Closest Point (ICP)

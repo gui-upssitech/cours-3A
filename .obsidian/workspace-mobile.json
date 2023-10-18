@@ -4,26 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed96af1076c85ce",
+        "id": "d8935e4e3f22cced",
         "type": "tabs",
         "children": [
           {
-            "id": "01368147561a946f",
+            "id": "65857342a21b12ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Polys/advanced_ai_td.pdf"
-              }
-            }
-          },
-          {
-            "id": "8ccf86d31855a1fc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Polys/poly_ia_avancee.pdf"
+                "file": "Syllabus.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Polys/advanced_ai_td.pdf",
+            "file": "Syllabus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Polys/advanced_ai_td.pdf",
+            "file": "Syllabus.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Polys/advanced_ai_td.pdf"
+            "file": "Syllabus.md"
           }
         }
       },
@@ -147,22 +139,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01368147561a946f",
+  "active": "65857342a21b12ae",
   "lastOpenFiles": [
-    "Polys/poly_ia_avancee.pdf",
-    "Notes/Advanced AI - Decision Making.md",
-    "Polys/advanced_ai_td.pdf",
-    "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
-    "Screens/New infinite note-1_9b0.png",
+    "Notes/Perception 3D.md",
+    "Notes/3D Modeling.md",
+    "Notes/Structure from Motion (SFM).md",
+    "Notes/Camera self-calibration.md",
     "Syllabus.md",
     "Notes/Vision.md",
+    "Notes/Moravec detector.md",
+    "Polys/poly_ia_avancee.pdf",
+    "Polys/syllabus 3A.pdf",
+    "Polys/advanced_ai_td.pdf",
+    "Notes/Advanced AI - Decision Making.md",
+    "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
+    "Screens/New infinite note-1_9b0.png",
     "Screens/Pasted image 20230925145856.png",
     "Notes/Step 1 - Installation Ingescape.md",
     "Notes/Fourier-Gabor.md",
     "Screens/Pasted image 20231002102351.png",
-    "Notes/Perception 3D.md",
     "Homework Kanban.md",
-    "Notes/Moravec detector.md",
     "Homework.md",
     "Notes/Motion planning et Robotique humanoïde.md",
     "Notes/Interactions distribuées.md",
@@ -182,7 +178,6 @@
     "Notes/Langues.md",
     "Screens/Pasted image 20230929112547.png",
     "Notes/Coop Multi-robots.md",
-    "Notes/Scale Invariant Feature Transform (SIFT).md",
-    "Notes/Logistique.md"
+    "Notes/Scale Invariant Feature Transform (SIFT).md"
   ]
 }

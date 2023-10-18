@@ -1,3 +1,4 @@
+Tags: #advanced-ai 
 
 A Markov Decision Process (MDP) is a mathematical framework used to model decision-making in situations where an agent interacts with an environment to achieve a goal. It's a fundamental concept in the fields of artificial intelligence, machine learning, operations research, and reinforcement learning. MDPs are particularly useful for modeling and solving problems involving decision-making under uncertainty.
 
@@ -35,10 +36,21 @@ The probability distribution of transitioning from one state to another after ta
 > [!info] Transition probabilities
 > In addition to the actions, there is a probability of $0.1$ that the forest with suffer a wildfire, which resets it to State 1 (Young forest)
 >
+>For the Wait action
+>
+| **WAIT**    | Young | Middle Aged | Old |
+| ----------- | ----- | ----------- | --- |
+| Young       | 0.1   | 0.9         | 0.0 |
+| Middle Aged | 0.1   | 0.0         | 0.9 |
+| Old         | 0.1   | 0.0         | 0.9 |
 > 
-
-
-
+> For the Cut action
+> 
+| **CUT**    | Young | Middle Aged | Old |
+| ----------- | ----- | ----------- | --- |
+| Young       | 1.0   | 0.0         | 0.0 |
+| Middle Aged | 1.0   | 0.0         | 0.0 |
+| Old         | 1.0   | 0.0         | 0.0 |
 
 4. **Rewards (R)**:
 
@@ -61,13 +73,14 @@ A strategy that defines the agent's behavior, specifying which action to take in
 
 A discount factor between 0 and 1 that determines the importance of future rewards compared to immediate rewards. It helps in modeling the agent's preference for short-term versus long-term rewards.
 
-![[Pasted image 20231018145214.png]]
-Image credit: Julian Trani
+> [!info] Recap Graph
+> ![[Pasted image 20231018145214.png|500]]
+> *Image credit: Julian Trani*
 
 ## Usage
 
 The primary objective in an MDP is for the agent to find a policy that maximizes the expected cumulative reward, often referred to as the return. The return is the sum of discounted rewards obtained by following the policy over time.
 
-The agent uses techniques such as policy iteration, value iteration, Q-learning, and various other reinforcement learning algorithms to find the optimal policy or approximate it in the case of large or continuous state and action spaces.
+The agent uses techniques such as [[Policy Iteration]], Value Iteration, Q-learning, and various other reinforcement learning algorithms to find the optimal policy or approximate it in the case of large or continuous state and action spaces.
 
 Markov Decision Processes provide a formal and widely used framework for modeling and solving decision-making problems in a wide range of applications, including robotics, game playing, finance, healthcare, and more.

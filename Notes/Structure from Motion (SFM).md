@@ -1,3 +1,5 @@
+Tags: #perception-3d 
+
 Pages [[poly_perception_3d.pdf#page=11|11]] à [[poly_perception_3d.pdf#page=23|23]]
 ## Basic concept
 

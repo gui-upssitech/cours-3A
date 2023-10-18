@@ -1,3 +1,4 @@
+Tags: #perception-3d
 
 Lien vers [[poly_perception_3d.pdf|poly]]
 

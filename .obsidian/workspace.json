@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "efe0f7428174f9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Markov Decision Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74b1344299781877",
             "type": "leaf",
             "state": {
@@ -173,18 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efe0f7428174f9b1",
+  "active": "74b1344299781877",
   "lastOpenFiles": [
-    "Notes/Policy Iteration.md",
     "Notes/Advanced AI - Decision Making.md",
-    "Notes/Markov Decision Process.md",
-    "Screens/Pasted image 20231018145214.png",
-    "Syllabus.md",
-    "Notes/Belief & Plausibility.md",
-    "Notes/Utility.md",
+    "Notes/3D Modeling.md",
     "Notes/Perception 3D.md",
     "Notes/Structure from Motion (SFM).md",
     "Notes/Camera self-calibration.md",
+    "Notes/Markov Decision Process.md",
+    "Syllabus.md",
+    "Notes/PGE.md",
+    "Notes/Policy Iteration.md",
+    "Screens/Pasted image 20231018145214.png",
+    "Notes/Belief & Plausibility.md",
+    "Notes/Utility.md",
     "Homework Kanban.md",
     "Homework.md",
     "Planning/Week 42 (16-10 to 20-10).md",
@@ -199,15 +189,12 @@
     "Polys/CM_Motion_plannning.pdf",
     "Polys/poly_ia_avancee.pdf",
     "Polys/motion_planning_rtt_algorithms.pdf",
-    "Notes/PGE.md",
     "Planning",
-    "Notes/3D Modeling.md",
     "Notes/Logistique.md",
     "Notes/Interactions distribuées.md",
     "Polys/advanced_ai_td.pdf",
     "Polys/poly_perception_3d.pdf",
     "Notes/Step 1 - Installation Ingescape.md",
-    "Notes/Vision.md",
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
     "Screens/New infinite note-1_9b0.png",
     "Screens/Pasted image 20231002102351.png",
