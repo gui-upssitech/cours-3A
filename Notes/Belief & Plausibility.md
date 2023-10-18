@@ -1,3 +1,5 @@
+Tags:
+
 ## Belief Function
 
 A belief function represents the degree of belief or support for a particular proposition or event. It quantifies the belief an agent has in the occurrence of an event, considering the available evidence. The belief function assigns a value to each possible event, reflecting the strength of belief in that event. The sum of the belief values for all events within the frame of discernment (the set of all possible events) is typically less than or equal to 1.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Belief & Plausibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Belief & Plausibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Belief & Plausibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus.md"
+                "file": "Notes/Belief & Plausibility.md"
               }
             }
           }
@@ -147,16 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "673ff2e3ed1398d9",
+  "active": "fa6467a50fbd2f69",
   "lastOpenFiles": [
+    "Notes/Advanced AI - Decision Making.md",
+    "Notes/Utility.md",
+    "Syllabus.md",
+    "Notes/Perception 3D.md",
+    "Notes/Structure from Motion (SFM).md",
+    "Notes/Camera self-calibration.md",
+    "Homework Kanban.md",
+    "Homework.md",
+    "Planning/Week 42 (16-10 to 20-10).md",
     "Notes/VR as a disruptive innovation.md",
     "Notes/Revolution in industry.md",
     "Notes/Langues.md",
-    "Syllabus.md",
     "Notes/Robotique Humanoïde.md",
     "Notes/Motion planning et Robotique humanoïde.md",
-    "Notes/Advanced AI - Decision Making.md",
-    "Notes/Utility.md",
     "Notes/Belief & Plausibility.md",
     "Notes/Scale Invariant Feature Transform (SIFT).md",
     "Notes/Harris detector.md",
@@ -164,13 +170,9 @@
     "Polys/CM_Motion_plannning.pdf",
     "Polys/poly_ia_avancee.pdf",
     "Polys/motion_planning_rtt_algorithms.pdf",
-    "Planning/Week 42 (16-10 to 20-10).md",
     "Notes/PGE.md",
     "Planning",
     "Notes/3D Modeling.md",
-    "Notes/Perception 3D.md",
-    "Notes/Structure from Motion (SFM).md",
-    "Notes/Camera self-calibration.md",
     "Notes/Logistique.md",
     "Notes/Interactions distribuées.md",
     "Polys/advanced_ai_td.pdf",
@@ -181,8 +183,6 @@
     "Screens/New infinite note-1_9b0.png",
     "Notes/Fourier-Gabor.md",
     "Notes/Discrete Wavelet Transform.md",
-    "Notes/Discrete Cosine Transform.md",
-    "Notes/Coop Multi-robots.md",
     "Screens/Pasted image 20231002102351.png",
     "Polys/Vision.pdf",
     "Screens/Pasted image 20230929112547.png",
