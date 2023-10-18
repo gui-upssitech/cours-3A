@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Markov Decision Process.md",
+                "file": "Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Markov Decision Process.md",
+                "file": "Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Markov Decision Process.md",
+                "file": "Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Markov Decision Process.md"
+                "file": "Homework.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "74b1344299781877",
   "lastOpenFiles": [
+    "Notes/Markov Decision Process.md",
     "Polys/advanced_ai_td.pdf",
     "Polys/CM_Motion_plannning.pdf",
     "Polys/motion_planning_rtt_algorithms.pdf",
@@ -174,7 +175,6 @@
     "Notes/Perception 3D.md",
     "Notes/Structure from Motion (SFM).md",
     "Notes/Camera self-calibration.md",
-    "Notes/Markov Decision Process.md",
     "Syllabus.md",
     "Notes/PGE.md",
     "Notes/Policy Iteration.md",
@@ -207,7 +207,6 @@
     "Screens/Pasted image 20230929103155.png",
     "Screens/Pasted image 20230925145856.png",
     "Screens/Pasted image 20230925145703.png",
-    "Polys/syllabus 3A.pdf",
     "Screens/Pasted image 20230920154648.png",
     "Untitled.canvas"
   ]
