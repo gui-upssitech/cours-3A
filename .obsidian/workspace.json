@@ -8,31 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44d4d3f0773d4b85",
+            "id": "74b1344299781877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Advanced AI - Decision Making.md",
+                "file": "Notes/Motion planning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74b1344299781877",
+            "id": "18aecc356b2c9a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework.md",
+                "file": "Notes/Singular Value Decomposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f65c79e7452c279c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Jacobienne augmentée.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e1ff1e35e53d9b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Matrice Jacobienne.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework.md",
+                "file": "Notes/Motion planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework.md",
+                "file": "Notes/Motion planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework.md"
+                "file": "Notes/Motion planning.md"
               }
             }
           }
@@ -158,14 +181,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "74b1344299781877",
   "lastOpenFiles": [
+    "Notes/Singular Value Decomposition.md",
+    "Notes/Motion planning.md",
+    "Polys/CM_Motion_plannning.pdf",
+    "Syllabus.md",
+    "Notes/Robotique Humanoïde.md",
+    "Notes/Matrice Jacobienne.md",
+    "Notes/Jacobienne augmentée.md",
+    "Homework/Dialogue - DOHM V2.md",
+    "Homework/Dialogue - DOHM V1.md",
+    "Invalid date.md",
+    "Homework.md",
+    "Homework Kanban.md",
+    "Homework",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
     "Notes/Markov Decision Process.md",
     "Polys/advanced_ai_td.pdf",
-    "Polys/CM_Motion_plannning.pdf",
     "Polys/motion_planning_rtt_algorithms.pdf",
     "Polys/motion_planning_rtt_algorithms_compressed.pdf",
     "Polys/CM_Motion_plannning_compressed.pdf",
@@ -175,33 +217,16 @@
     "Notes/Perception 3D.md",
     "Notes/Structure from Motion (SFM).md",
     "Notes/Camera self-calibration.md",
-    "Syllabus.md",
     "Notes/PGE.md",
     "Notes/Policy Iteration.md",
     "Screens/Pasted image 20231018145214.png",
     "Notes/Belief & Plausibility.md",
     "Notes/Utility.md",
-    "Homework Kanban.md",
-    "Homework.md",
-    "Planning/Week 42 (16-10 to 20-10).md",
-    "Notes/VR as a disruptive innovation.md",
-    "Notes/Revolution in industry.md",
-    "Notes/Langues.md",
-    "Notes/Robotique Humanoïde.md",
-    "Notes/Motion planning et Robotique humanoïde.md",
-    "Notes/Scale Invariant Feature Transform (SIFT).md",
-    "Notes/Harris detector.md",
-    "Notes/Moravec detector.md",
     "Polys/poly_ia_avancee.pdf",
     "Planning",
-    "Notes/Logistique.md",
-    "Notes/Interactions distribuées.md",
-    "Polys/poly_perception_3d.pdf",
-    "Notes/Step 1 - Installation Ingescape.md",
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
     "Screens/New infinite note-1_9b0.png",
     "Screens/Pasted image 20231002102351.png",
-    "Polys/Vision.pdf",
     "Screens/Pasted image 20230929112547.png",
     "Screens/Pasted image 20230929110958.png",
     "Screens/Pasted image 20230929103155.png",

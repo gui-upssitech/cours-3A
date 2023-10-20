@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Homework",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "includeFields": [
+              "due"
+            ],
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ec4f059a-67cc-439e-82ba-63947b1c5f3e",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e22a24c2-6749-47b8-b22e-f10d34d7e080",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1b407174-eb28-4dba-84e8-cafd3d3e0137",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b1c622c9-85c7-44e0-aae7-e0cc5d4225c5",
+      "name": "Homework"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
