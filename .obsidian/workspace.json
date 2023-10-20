@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Motion planning.md",
+                "file": "Project dockerify/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "827145fa2a12959b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project dockerify/Be Multi-robot.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Motion planning.md",
+                "file": "Project dockerify/Be Multi-robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Motion planning.md",
+                "file": "Project dockerify/Be Multi-robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Motion planning.md"
+                "file": "Project dockerify/Be Multi-robot.md"
               }
             }
           }
@@ -185,10 +198,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "74b1344299781877",
+  "active": "827145fa2a12959b",
   "lastOpenFiles": [
-    "Notes/Singular Value Decomposition.md",
+    "Project dockerify/Index.md",
+    "Project dockerify/Be Multi-robot.md",
     "Notes/Motion planning.md",
+    "Project dockerify",
+    "Notes/Singular Value Decomposition.md",
     "Polys/CM_Motion_plannning.pdf",
     "Syllabus.md",
     "Notes/Robotique Humanoïde.md",
@@ -220,10 +236,7 @@
     "Notes/PGE.md",
     "Notes/Policy Iteration.md",
     "Screens/Pasted image 20231018145214.png",
-    "Notes/Belief & Plausibility.md",
-    "Notes/Utility.md",
     "Polys/poly_ia_avancee.pdf",
-    "Planning",
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
     "Screens/New infinite note-1_9b0.png",
     "Screens/Pasted image 20231002102351.png",
