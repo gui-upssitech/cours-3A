@@ -18,4 +18,5 @@ Part R3 requires ros noetic, gazebo, and git repo
 git clone git://redmine.laas.fr/laas/users/felix/isae-cnam/cnam_package.git
 https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros
 
-Part G1 & G2 require `genomixd`, gazebo, ros noetic
+Part G1 & G2 & G3 require gazebo, ros noetic, genom libs :
+genom: `genom3`, `genomixd`
