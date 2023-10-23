@@ -1,3 +1,5 @@
+Tags : #motion-planning 
+
 Une matrice jacobienne est une matrice qui représente les dérivées partielles d'un système d'équations par rapport à ses variables. Plus précisément, elle est utilisée pour exprimer la variation des composantes d'un vecteur de fonctions en fonction de la variation de ses variables indépendantes. La matrice jacobienne est largement utilisée en mathématiques, en particulier en analyse, en calcul vectoriel et en optimisation.
 
 Formellement, si vous avez un vecteur de fonctions $f(x) = [f_1(x), f_2(x), \cdots, f_n(x)]$ qui dépend d'un vecteur de variables $x = [x_1, x_2, \cdots, x_n]$, la matrice jacobienne $J$ de $f(x)$ est une matrice composée des dérivées partielles de chaque fonction $f$ par rapport à chaque variable $x$. Elle a la forme suivante :

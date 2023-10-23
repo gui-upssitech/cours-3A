@@ -1,3 +1,4 @@
+Tags: #motion-planning
 
 Resources : https://roboticsnakamura.files.wordpress.com/2020/06/advanced-robotics-y.-nakamura.pdf
 

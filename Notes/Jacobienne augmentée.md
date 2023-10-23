@@ -1,3 +1,4 @@
+Tags : #motion-planning 
 
 Lorsqu'on parle de jacobienne augmentée, on se réfère généralement à une extension de la [[Matrice Jacobienne]].
 

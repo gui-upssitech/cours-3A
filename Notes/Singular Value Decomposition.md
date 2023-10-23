@@ -1,3 +1,5 @@
+Tags: #motion-planning 
+
 La Singular Value Decomposition (SVD) est une technique mathématique fondamentale en algèbre linéaire et en analyse numérique. Elle est couramment utilisée dans divers domaines, y compris le traitement du signal, l'apprentissage automatique, l'analyse de données, la compression d'images, la réduction de dimension, et bien d'autres applications.
 
 La SVD décompose une matrice en trois matrices plus simples, ce qui la rend utile pour analyser les propriétés intrinsèques de la matrice d'origine.

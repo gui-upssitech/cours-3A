@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74b1344299781877",
+            "id": "f37d505521e3b916",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project dockerify/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "827145fa2a12959b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project dockerify/Be Multi-robot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18aecc356b2c9a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Singular Value Decomposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f65c79e7452c279c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Jacobienne augmentée.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e1ff1e35e53d9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Matrice Jacobienne.md",
+                "file": "Notes/Monte Carlo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project dockerify/Be Multi-robot.md",
+                "file": "Notes/Monte Carlo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project dockerify/Be Multi-robot.md",
+                "file": "Notes/Monte Carlo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project dockerify/Be Multi-robot.md"
+                "file": "Notes/Monte Carlo.md"
               }
+            }
+          },
+          {
+            "id": "a4a5c078f68ab30d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,28 +147,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-projects:Open projects": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "827145fa2a12959b",
+  "active": "f37d505521e3b916",
   "lastOpenFiles": [
-    "Project dockerify/Index.md",
-    "Project dockerify/Be Multi-robot.md",
-    "Notes/Motion planning.md",
-    "Project dockerify",
-    "Notes/Singular Value Decomposition.md",
-    "Polys/CM_Motion_plannning.pdf",
+    "Notes/Filtrage particulaire et SLAM.md",
     "Syllabus.md",
-    "Notes/Robotique Humanoïde.md",
+    "Homework/IHM Multimodale.md",
+    "Homework/Interaction Distribuée - Pacman.md",
+    "Homework/Anglais - QCM.md",
+    "Notes/Particle.md",
+    "Notes/State Estimation.md",
+    "Project dockerify/Index.md",
     "Notes/Matrice Jacobienne.md",
     "Notes/Jacobienne augmentée.md",
+    "Notes/Motion planning.md",
+    "Notes/Singular Value Decomposition.md",
+    "Screens/Pasted image 20231023104044.png",
+    "Screens/Pasted image 20231023104037.png",
+    "Notes/Monte Carlo.md",
+    "Screens/Pasted image 20231023101955.png",
+    "Project dockerify/Be Multi-robot.md",
+    "Project dockerify",
+    "Polys/CM_Motion_plannning.pdf",
+    "Notes/Robotique Humanoïde.md",
     "Homework/Dialogue - DOHM V2.md",
     "Homework/Dialogue - DOHM V1.md",
     "Invalid date.md",
@@ -228,13 +197,6 @@
     "Polys/motion_planning_rtt_algorithms_compressed.pdf",
     "Polys/CM_Motion_plannning_compressed.pdf",
     "Polys/advanced_ai_td_compressed.pdf",
-    "Notes/Advanced AI - Decision Making.md",
-    "Notes/3D Modeling.md",
-    "Notes/Perception 3D.md",
-    "Notes/Structure from Motion (SFM).md",
-    "Notes/Camera self-calibration.md",
-    "Notes/PGE.md",
-    "Notes/Policy Iteration.md",
     "Screens/Pasted image 20231018145214.png",
     "Polys/poly_ia_avancee.pdf",
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
@@ -243,9 +205,6 @@
     "Screens/Pasted image 20230929112547.png",
     "Screens/Pasted image 20230929110958.png",
     "Screens/Pasted image 20230929103155.png",
-    "Screens/Pasted image 20230925145856.png",
-    "Screens/Pasted image 20230925145703.png",
-    "Screens/Pasted image 20230920154648.png",
     "Untitled.canvas"
   ]
 }
