@@ -38,3 +38,4 @@ https://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm
 #### Extension aux formes circulaires
 
 #### Transformée de Rough généralisée
+

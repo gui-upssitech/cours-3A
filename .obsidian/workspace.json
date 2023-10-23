@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Monte Carlo.md",
+                "file": "Notes/Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Monte Carlo.md",
+                "file": "Notes/Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Monte Carlo.md",
+                "file": "Notes/Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Monte Carlo.md"
+                "file": "Notes/Vision.md"
               }
             }
           },
@@ -159,13 +159,14 @@
   },
   "active": "f37d505521e3b916",
   "lastOpenFiles": [
-    "Notes/Filtrage particulaire et SLAM.md",
     "Syllabus.md",
+    "Notes/Filtrage particulaire et SLAM.md",
+    "Notes/Monte Carlo.md",
+    "Notes/State Estimation.md",
+    "Notes/Particle.md",
     "Homework/IHM Multimodale.md",
     "Homework/Interaction Distribuée - Pacman.md",
     "Homework/Anglais - QCM.md",
-    "Notes/Particle.md",
-    "Notes/State Estimation.md",
     "Project dockerify/Index.md",
     "Notes/Matrice Jacobienne.md",
     "Notes/Jacobienne augmentée.md",
@@ -173,7 +174,6 @@
     "Notes/Singular Value Decomposition.md",
     "Screens/Pasted image 20231023104044.png",
     "Screens/Pasted image 20231023104037.png",
-    "Notes/Monte Carlo.md",
     "Screens/Pasted image 20231023101955.png",
     "Project dockerify/Be Multi-robot.md",
     "Project dockerify",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Filtrage particulaire et SLAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#particulate-filtering",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0e78415bf8f92ae2",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Syllabus.md",
+            "file": "Notes/Filtrage particulaire et SLAM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Syllabus.md",
+            "file": "Notes/Filtrage particulaire et SLAM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Syllabus.md"
+            "file": "Notes/Filtrage particulaire et SLAM.md"
           }
         }
       },
@@ -132,6 +132,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -142,11 +143,15 @@
   },
   "active": "65857342a21b12ae",
   "lastOpenFiles": [
+    "Notes/Monte Carlo.md",
+    "Notes/Filtrage particulaire et SLAM.md",
+    "Notes/Particle.md",
+    "Notes/State Estimation.md",
+    "Syllabus.md",
     "Notes/Perception 3D.md",
     "Notes/3D Modeling.md",
     "Notes/Structure from Motion (SFM).md",
     "Notes/Camera self-calibration.md",
-    "Syllabus.md",
     "Notes/Vision.md",
     "Notes/Moravec detector.md",
     "Polys/poly_ia_avancee.pdf",
@@ -175,10 +180,6 @@
     "Screens/Pasted image 20230929110958.png",
     "Notes/Discrete Wavelet Transform.md",
     "Screens/Pasted image 20230925145703.png",
-    "Notes/Revolution in industry.md",
-    "Notes/Langues.md",
-    "Screens/Pasted image 20230929112547.png",
-    "Notes/Coop Multi-robots.md",
-    "Notes/Scale Invariant Feature Transform (SIFT).md"
+    "Screens/Pasted image 20230929112547.png"
   ]
 }
