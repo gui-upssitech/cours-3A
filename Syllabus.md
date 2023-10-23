@@ -11,13 +11,11 @@ UE2
 - [[Filtrage particulaire et SLAM]]
 - Intégration de systèmes robotiques
 	- Projet intégration sous ROS
-	- Motion planning et Robotique humanoïde
-		- [[Motion planning]]
-		- [[Robotique Humanoïde]]
+	- [[Motion planning]]
 
 UE3
 - Mineure Robotique
-	- [[Systèmes robotiques complexes]]
+	- [[Robotique Humanoïde]]
 	- [[Optimisation de trajectoires et CRV]]
 - [[Multithreading & Safety]]
 

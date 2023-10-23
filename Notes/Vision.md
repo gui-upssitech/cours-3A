@@ -39,3 +39,5 @@ https://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm
 
 #### Transformée de Rough généralisée
 
+
+[[Singular Value Decomposition]]
