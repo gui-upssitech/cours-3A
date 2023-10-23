@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e898e3dfa4e2445c",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Législation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Législation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Législation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a30b42bc080841a5",
+  "active": "e898e3dfa4e2445c",
   "lastOpenFiles": [
-    "Syllabus.md",
+    "Homework/IA avancée.md",
     "Législation.md",
+    "Syllabus.md",
     "Notes/Robotique Humanoïde.md",
     "Notes/Derivative of a rotation matrix.md",
     "Screens/Pasted image 20231023172349.png",
@@ -192,7 +198,6 @@
     "Homework Kanban.md",
     "Homework",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project",
     "Polys/advanced_ai_td.pdf",
     "Polys/motion_planning_rtt_algorithms.pdf",
