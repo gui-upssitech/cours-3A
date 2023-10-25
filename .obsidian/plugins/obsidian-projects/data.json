@@ -21,7 +21,18 @@
             "includeFields": [
               "due"
             ],
-            "groupByField": "status"
+            "groupByField": "status",
+            "columns": {
+              "Todo": {
+                "weight": 0
+              },
+              "Doing": {
+                "weight": 1
+              },
+              "Done": {
+                "weight": 2
+              }
+            }
           },
           "filter": {
             "conditions": []
