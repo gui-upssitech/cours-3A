@@ -59,7 +59,14 @@
             "interval": "month"
           },
           "filter": {
-            "conditions": []
+            "conditions": [
+              {
+                "field": "status",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "Done"
+              }
+            ]
           },
           "colors": {
             "conditions": []
