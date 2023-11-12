@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Filtrage particulaire et SLAM.md",
+                "file": "Notes/Belief & Plausibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0e78415bf8f92ae2",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Filtrage particulaire et SLAM.md",
+            "file": "Notes/Belief & Plausibility.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/Filtrage particulaire et SLAM.md",
+            "file": "Notes/Belief & Plausibility.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/Filtrage particulaire et SLAM.md"
+            "file": "Notes/Belief & Plausibility.md"
           }
         }
       },
@@ -141,13 +141,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65857342a21b12ae",
+  "active": "6771661449327b20",
   "lastOpenFiles": [
-    "Notes/Monte Carlo.md",
+    "Notes/Advanced AI - Decision Making.md",
+    "Syllabus.md",
     "Notes/Filtrage particulaire et SLAM.md",
+    "Homework/Dialogue DOHM Pizza.md",
+    "Notes/Monte Carlo.md",
     "Notes/Particle.md",
     "Notes/State Estimation.md",
-    "Syllabus.md",
     "Notes/Perception 3D.md",
     "Notes/3D Modeling.md",
     "Notes/Structure from Motion (SFM).md",
@@ -157,7 +159,6 @@
     "Polys/poly_ia_avancee.pdf",
     "Polys/syllabus 3A.pdf",
     "Polys/advanced_ai_td.pdf",
-    "Notes/Advanced AI - Decision Making.md",
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
     "Screens/New infinite note-1_9b0.png",
     "Screens/Pasted image 20230925145856.png",
@@ -178,7 +179,6 @@
     "Notes/IA et dialogue oral.md",
     "Notes/Form.md",
     "Screens/Pasted image 20230929110958.png",
-    "Notes/Discrete Wavelet Transform.md",
     "Screens/Pasted image 20230925145703.png",
     "Screens/Pasted image 20230929112547.png"
   ]

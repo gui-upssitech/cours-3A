@@ -19,7 +19,8 @@
         {
           "config": {
             "includeFields": [
-              "due"
+              "due",
+              "with"
             ],
             "groupByField": "status",
             "columns": {
@@ -41,7 +42,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "due",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "ec4f059a-67cc-439e-82ba-63947b1c5f3e",
           "name": "Board",

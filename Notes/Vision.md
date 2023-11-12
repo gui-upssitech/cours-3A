@@ -41,3 +41,7 @@ https://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm
 
 
 [[Singular Value Decomposition]]
+
+### Reconnaissance de formes dans les images
+
+Link to article about [Feature engineering](https://medium.com/@evertongomede/feature-engineering-for-computer-vision-f01a76d8058c)
