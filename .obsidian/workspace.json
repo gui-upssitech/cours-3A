@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "530383d82a3c45c2",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Interactions distribuées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Interactions distribuées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Interactions distribuées.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ff8bb21cf9d32bd",
+  "active": "530383d82a3c45c2",
   "lastOpenFiles": [
+    "Homework/IHM multimodale - exo 3.md",
+    "Notes/Interactions distribuées.md",
     "Syllabus.md",
     "Stage/Gestion de crise.md",
     "Stage/Recherche stage.md",
@@ -167,7 +174,6 @@
     "Screens/Pasted image 20231106090542.png",
     "Stage",
     "Notes/Singular Value Decomposition.md",
-    "Notes/Interactions distribuées.md",
     "Homework/Perception 3D - Redo TP3.md",
     "Notes/Structure from Motion (SFM).md",
     "Notes/Perception 3D.md",
@@ -188,7 +194,6 @@
     "Notes/Monte Carlo.md",
     "Notes/State Estimation.md",
     "Notes/Particle.md",
-    "Homework/Interaction Distribuée - Pacman.md",
     "Screens/Pasted image 20231023104044.png",
     "Screens/Pasted image 20231023104037.png",
     "Screens/Pasted image 20231023101955.png",
