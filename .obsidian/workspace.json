@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +165,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "530383d82a3c45c2",
+  "active": "7ff8bb21cf9d32bd",
   "lastOpenFiles": [
+    "Dossier de spécification - Fonctions.pdf",
     "Homework/IHM multimodale - exo 3.md",
     "Notes/Interactions distribuées.md",
     "Syllabus.md",
@@ -197,7 +197,6 @@
     "Notes/Filtrage particulaire et SLAM.md",
     "Notes/Monte Carlo.md",
     "Notes/State Estimation.md",
-    "Notes/Particle.md",
     "Screens/Pasted image 20231023104044.png",
     "Screens/Pasted image 20231023104037.png",
     "Screens/Pasted image 20231023101955.png",
