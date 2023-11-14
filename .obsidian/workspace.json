@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,11 +166,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ff8bb21cf9d32bd",
+  "active": "530383d82a3c45c2",
   "lastOpenFiles": [
+    "Notes/Interactions distribuées.md",
     "Dossier de spécification - Fonctions.pdf",
     "Homework/IHM multimodale - exo 3.md",
-    "Notes/Interactions distribuées.md",
     "Syllabus.md",
     "Stage/Gestion de crise.md",
     "Stage/Recherche stage.md",
@@ -207,7 +208,6 @@
     "Polys/advanced_ai_td.pdf",
     "Polys/motion_planning_rtt_algorithms.pdf",
     "Polys/motion_planning_rtt_algorithms_compressed.pdf",
-    "Polys/CM_Motion_plannning_compressed.pdf",
     "Screens/Pasted image 20231018145214.png",
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
     "Screens/New infinite note-1_9b0.png",
