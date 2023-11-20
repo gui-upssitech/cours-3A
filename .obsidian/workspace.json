@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab3a8ea31925351",
+        "id": "b760ab395c38b5cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff8bb21cf9d32bd",
+            "id": "ab7c839b784dc2e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Interactions distribuées.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "530383d82a3c45c2",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "355857efad3d5450",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "95f12ea406c0a046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Commande Référencée Vision.md",
+                "file": "Notes/Législation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Commande Référencée Vision.md",
+                "file": "Notes/Législation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Commande Référencée Vision.md",
+                "file": "Notes/Législation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Commande Référencée Vision.md"
+                "file": "Notes/Législation.md"
               }
             }
           },
@@ -186,12 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95f12ea406c0a046",
+  "active": "ab7c839b784dc2e2",
   "lastOpenFiles": [
     "Syllabus.md",
+    "Notes/Interactions distribuées.md",
     "Notes/Commande Référencée Vision.md",
     "PGE.md",
-    "Notes/Interactions distribuées.md",
     "Dossier de spécification - Fonctions.pdf",
     "Homework/IHM multimodale - exo 3.md",
     "Stage/Gestion de crise.md",

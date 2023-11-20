@@ -1,3 +1,4 @@
+
 Pré-avis de 3 mois pour les ingénieurs (IC)
 Convention Collective -> SYNTEC / Métallurgie (c'est généralement ceux qu'on aura)
 
