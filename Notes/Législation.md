@@ -16,3 +16,6 @@ En théorie non, mais
 - JRE (journées repos employeurs) -> journées ou l'employeur peut imposer d'être en congé
 
 Vérifier glassdoor
+
+Toujours obtenir trace écrite pour tout !!!
+Toujours demander un avocat lors d'une garde a vue
