@@ -16,7 +16,8 @@ UE2
 UE3
 - Mineure Robotique
 	- [[Robotique Humanoïde]]
-	- [[Optimisation de trajectoires et CRV]]
+	- Optimisation de trajectoires et CRV
+		- [[Commande Référencée Vision]]
 - [[Multithreading & Safety]]
 
 UE4
