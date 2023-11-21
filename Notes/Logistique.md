@@ -1,4 +1,7 @@
 
+
+moodle : https://moodle.univ-tlse3.fr/course/view.php?id=10438
+
 ## Nomenclature
 
 Voir slide 23 lorsque poly dispo
