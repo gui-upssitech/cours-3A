@@ -103,7 +103,11 @@
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
-    "commands": [],
+    "commands": [
+      {
+        "project": "b1c622c9-85c7-44e0-aae7-e0cc5d4225c5"
+      }
+    ],
     "linkBehavior": "open-editor"
   }
 }

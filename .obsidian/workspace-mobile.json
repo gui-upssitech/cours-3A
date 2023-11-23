@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Belief & Plausibility.md",
+                "file": "Homework/IA avancée - TP 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6dacba8e9d08545",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0e78415bf8f92ae2",
@@ -85,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/Belief & Plausibility.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/Belief & Plausibility.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Notes/Belief & Plausibility.md"
-          }
+          "state": {}
         }
       },
       {
@@ -141,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65857342a21b12ae",
+  "active": "c6dacba8e9d08545",
   "lastOpenFiles": [
+    "Homework/IA avancée - TP 1.md",
+    "Homework/IA avancée - TP3.md",
+    "Homework/IHM multimodale - exo 3.md",
+    "Homework/IHM Multimodale.md",
+    "Notes/Belief & Plausibility.md",
     "Notes/Advanced AI - Decision Making.md",
     "Syllabus.md",
     "Notes/Filtrage particulaire et SLAM.md",
@@ -172,12 +182,7 @@
     "Polys/Vision.pdf",
     "Notes/Texture.md",
     "Notes/Discrete Cosine Transform.md",
-    "Notes/Harris detector.md",
     "Screens/Pasted image 20230929103155.png",
-    "Notes/Vision et IA.md",
-    "Notes/Co-occurence Matrices.md",
-    "Notes/IA et dialogue oral.md",
-    "Notes/Form.md",
     "Screens/Pasted image 20230929110958.png",
     "Screens/Pasted image 20230925145703.png",
     "Screens/Pasted image 20230929112547.png"
