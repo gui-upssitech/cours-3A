@@ -23,8 +23,12 @@
             "id": "4504143e09c15218",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Fourier-Gabor.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Fourier-Gabor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Fourier-Gabor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus.md"
+                "file": "Notes/Fourier-Gabor.md"
               }
             }
           },
@@ -168,6 +172,8 @@
   },
   "active": "4504143e09c15218",
   "lastOpenFiles": [
+    "Notes/Texture.md",
+    "Notes/Vision.md",
     "Syllabus.md",
     "Notes/Logistique.md",
     "Evaluations.md",
@@ -179,7 +185,6 @@
     "Homework/IHM multimodale - exo 3.md",
     "Stage/Gestion de crise.md",
     "Stage/Recherche stage.md",
-    "Notes/Vision.md",
     "Homework/Dialogue - Examen.md",
     "Screens/Pasted image 20231106090542.png",
     "Stage",
@@ -197,7 +202,6 @@
     "Notes/Robotique Humanoïde.md",
     "Notes/Derivative of a rotation matrix.md",
     "Screens/Pasted image 20231023172349.png",
-    "Systèmes robotiques complexes.md",
     "Polys/Vision.pdf",
     "Screens/Pasted image 20231023104044.png",
     "Screens/Pasted image 20231023104037.png",
