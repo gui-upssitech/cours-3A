@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Fourier-Gabor.md",
+                "file": "Stage/Documents.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Fourier-Gabor.md",
+                "file": "Stage/Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Fourier-Gabor.md",
+                "file": "Stage/Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Fourier-Gabor.md"
+                "file": "Stage/Documents.md"
               }
             }
           },
@@ -172,6 +172,10 @@
   },
   "active": "4504143e09c15218",
   "lastOpenFiles": [
+    "Stage/Recherche stage.md",
+    "Stage/Documents.md",
+    "Stage/Gestion de crise.md",
+    "Notes/Fourier-Gabor.md",
     "Notes/Texture.md",
     "Notes/Vision.md",
     "Syllabus.md",
@@ -183,8 +187,6 @@
     "PGE.md",
     "Dossier de spécification - Fonctions.pdf",
     "Homework/IHM multimodale - exo 3.md",
-    "Stage/Gestion de crise.md",
-    "Stage/Recherche stage.md",
     "Homework/Dialogue - Examen.md",
     "Screens/Pasted image 20231106090542.png",
     "Stage",
@@ -199,8 +201,6 @@
     "Homework/IA avancée - TP3.md",
     "Homework/IA avancée - TP 1.md",
     "Homework/Anglais - QCM.md",
-    "Notes/Robotique Humanoïde.md",
-    "Notes/Derivative of a rotation matrix.md",
     "Screens/Pasted image 20231023172349.png",
     "Polys/Vision.pdf",
     "Screens/Pasted image 20231023104044.png",
