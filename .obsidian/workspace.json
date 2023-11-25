@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25dd2d92c3d6dc34",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage/Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage/Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stage/Documents.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4504143e09c15218",
+  "active": "25dd2d92c3d6dc34",
   "lastOpenFiles": [
-    "Stage/Recherche stage.md",
     "Stage/Documents.md",
+    "Stage/Recherche stage.md",
     "Stage/Gestion de crise.md",
     "Notes/Fourier-Gabor.md",
     "Notes/Texture.md",
