@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage/Documents.md",
+                "file": "Stage/Suivi.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,12 @@
             "id": "25dd2d92c3d6dc34",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Belief & Plausibility.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Belief & Plausibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Notes/Belief & Plausibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus.md"
+                "file": "Notes/Belief & Plausibility.md"
               }
             }
           },
@@ -180,19 +184,23 @@
   },
   "active": "25dd2d92c3d6dc34",
   "lastOpenFiles": [
-    "Stage/Documents.md",
+    "Notes/Advanced AI - Decision Making.md",
+    "Notes/Utility.md",
+    "Notes/Policy Iteration.md",
+    "Syllabus.md",
+    "Notes/Markov Decision Process.md",
+    "PGE.md",
+    "Stage/Suivi.md",
     "Stage/Recherche stage.md",
     "Stage/Gestion de crise.md",
     "Notes/Fourier-Gabor.md",
     "Notes/Texture.md",
     "Notes/Vision.md",
-    "Syllabus.md",
     "Notes/Logistique.md",
     "Evaluations.md",
     "Notes/Législation.md",
     "Notes/Interactions distribuées.md",
     "Notes/Commande Référencée Vision.md",
-    "PGE.md",
     "Dossier de spécification - Fonctions.pdf",
     "Homework/IHM multimodale - exo 3.md",
     "Homework/Dialogue - Examen.md",
@@ -205,10 +213,6 @@
     "Homework/Dialogue DOHM Pizza.md",
     "Homework/IHM Multimodale.md",
     "Notes/IA et dialogue oral.md",
-    "Homework/Dialogue - DOHM V2.md",
-    "Homework/IA avancée - TP3.md",
-    "Homework/IA avancée - TP 1.md",
-    "Homework/Anglais - QCM.md",
     "Screens/Pasted image 20231023172349.png",
     "Polys/Vision.pdf",
     "Screens/Pasted image 20231023104044.png",
