@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc1efd2b0e77a05f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Covariance matrices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Kalman Filter.md",
+                "file": "Notes/Covariance matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Kalman Filter.md",
+                "file": "Notes/Covariance matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Kalman Filter.md"
+                "file": "Notes/Covariance matrices.md"
               }
             }
           },
@@ -170,10 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34341a8e51f2e033",
+  "active": "cc1efd2b0e77a05f",
   "lastOpenFiles": [
-    "Dossier de spécification - Fonctions.pdf",
+    "Screens/Pasted image 20231205162844.png",
+    "Screens/Pasted image 20231205162635.png",
     "Notes/Kalman Filter.md",
+    "Notes/Covariance matrices.md",
+    "Screens/Pasted image 20231205162526.png",
+    "Dossier de spécification - Fonctions.pdf",
     "Screens/Pasted image 20231205143857.png",
     "Notes/Filtrage particulaire et SLAM.md",
     "Notes/State Estimation.md",
@@ -200,7 +216,6 @@
     "Screens/Pasted image 20231106090542.png",
     "Stage",
     "Notes/Singular Value Decomposition.md",
-    "Homework/Perception 3D - Redo TP3.md",
     "Screens/Pasted image 20231023172349.png",
     "Polys/Vision.pdf",
     "Screens/Pasted image 20231023104044.png",
@@ -215,8 +230,6 @@
     "Polys/motion_planning_rtt_algorithms_compressed.pdf",
     "Screens/Pasted image 20231018145214.png",
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
-    "Screens/New infinite note-1_9b0.png",
-    "Screens/Pasted image 20231002102351.png",
     "Untitled.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 Tags: #particulate-filtering 
 
-Prequisites (Covariance matrices) : https://thekalmanfilter.com/covariance-matrix-explained/
+Prequisites: [[Covariance matrices]]
 Explanation website : https://thekalmanfilter.com/kalman-filter-explained-simply/
 
 ### Definition
