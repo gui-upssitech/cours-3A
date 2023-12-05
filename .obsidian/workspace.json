@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "decac6fdcd132a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4504143e09c15218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage/Suivi.md",
+                "file": "Notes/Filtrage particulaire et SLAM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "25dd2d92c3d6dc34",
+            "id": "34341a8e51f2e033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Belief & Plausibility.md",
+                "file": "Notes/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Belief & Plausibility.md",
+                "file": "Notes/Kalman Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Belief & Plausibility.md",
+                "file": "Notes/Kalman Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Belief & Plausibility.md"
+                "file": "Notes/Kalman Filter.md"
               }
             }
           },
@@ -182,15 +170,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25dd2d92c3d6dc34",
+  "active": "34341a8e51f2e033",
   "lastOpenFiles": [
+    "Dossier de spécification - Fonctions.pdf",
+    "Notes/Kalman Filter.md",
+    "Screens/Pasted image 20231205143857.png",
+    "Notes/Filtrage particulaire et SLAM.md",
+    "Notes/State Estimation.md",
+    "Syllabus.md",
+    "Stage/Suivi.md",
+    "Notes/Belief & Plausibility.md",
     "Notes/Advanced AI - Decision Making.md",
     "Notes/Utility.md",
     "Notes/Policy Iteration.md",
-    "Syllabus.md",
     "Notes/Markov Decision Process.md",
     "PGE.md",
-    "Stage/Suivi.md",
     "Stage/Recherche stage.md",
     "Stage/Gestion de crise.md",
     "Notes/Fourier-Gabor.md",
@@ -201,18 +195,12 @@
     "Notes/Législation.md",
     "Notes/Interactions distribuées.md",
     "Notes/Commande Référencée Vision.md",
-    "Dossier de spécification - Fonctions.pdf",
     "Homework/IHM multimodale - exo 3.md",
     "Homework/Dialogue - Examen.md",
     "Screens/Pasted image 20231106090542.png",
     "Stage",
     "Notes/Singular Value Decomposition.md",
     "Homework/Perception 3D - Redo TP3.md",
-    "Notes/Structure from Motion (SFM).md",
-    "Notes/Perception 3D.md",
-    "Homework/Dialogue DOHM Pizza.md",
-    "Homework/IHM Multimodale.md",
-    "Notes/IA et dialogue oral.md",
     "Screens/Pasted image 20231023172349.png",
     "Polys/Vision.pdf",
     "Screens/Pasted image 20231023104044.png",
@@ -229,7 +217,6 @@
     "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
     "Screens/New infinite note-1_9b0.png",
     "Screens/Pasted image 20231002102351.png",
-    "Screens/Pasted image 20230929112547.png",
     "Untitled.canvas"
   ]
 }

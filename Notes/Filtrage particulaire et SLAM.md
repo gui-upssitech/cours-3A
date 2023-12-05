@@ -2,6 +2,7 @@ Tags : #particulate-filtering
 # Recap
 
 [[State Estimation]]
+[[Kalman Filter]]
 
 # Introduction
 
