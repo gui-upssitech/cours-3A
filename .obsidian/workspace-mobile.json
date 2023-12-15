@@ -82,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0e78415bf8f92ae2",
@@ -150,8 +150,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6dacba8e9d08545",
+  "active": "ac8c026c4cf237fc",
   "lastOpenFiles": [
+    "Polys/sujet-tp-mpc.pdf",
     "Homework/IA avancée - TP 1.md",
     "Homework/IA avancée - TP3.md",
     "Homework/IHM multimodale - exo 3.md",
@@ -185,7 +186,6 @@
     "Notes/Interactions distribuées.md",
     "Polys/Vision.pdf",
     "Notes/Texture.md",
-    "Notes/Discrete Cosine Transform.md",
     "Screens/Pasted image 20230929103155.png",
     "Screens/Pasted image 20230929110958.png",
     "Screens/Pasted image 20230925145703.png",
