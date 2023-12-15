@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0f3f03b4b6ec7b59",
+        "id": "185a3848f459696f",
         "type": "tabs",
         "children": [
           {
-            "id": "4504143e09c15218",
+            "id": "b985713943954b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Filtrage particulaire et SLAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34341a8e51f2e033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Kalman Filter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc1efd2b0e77a05f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Covariance matrices.md",
+                "file": "Notes/Mineure Robotique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Covariance matrices.md",
+                "file": "Notes/Mineure Robotique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Covariance matrices.md",
+                "file": "Notes/Mineure Robotique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Covariance matrices.md"
+                "file": "Notes/Mineure Robotique.md"
               }
             }
           },
@@ -182,18 +157,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc1efd2b0e77a05f",
+  "active": "b985713943954b59",
   "lastOpenFiles": [
-    "Screens/Pasted image 20231205162844.png",
-    "Screens/Pasted image 20231205162635.png",
+    "Syllabus.md",
+    "Notes/VR as a disruptive innovation.md",
+    "Notes/IA et dialogue oral.md",
+    "Notes/Mineure Robotique.md",
+    "Notes/Filtrage particulaire et SLAM.md",
+    "Notes/Coop Multi-robots.md",
+    "Homework/IHM Multimodale.md",
+    "Notes/Logistique.md",
+    "Notes/Interactions distribuées.md",
     "Notes/Kalman Filter.md",
     "Notes/Covariance matrices.md",
+    "Screens/Pasted image 20231205162844.png",
+    "Screens/Pasted image 20231205162635.png",
     "Screens/Pasted image 20231205162526.png",
     "Dossier de spécification - Fonctions.pdf",
     "Screens/Pasted image 20231205143857.png",
-    "Notes/Filtrage particulaire et SLAM.md",
     "Notes/State Estimation.md",
-    "Syllabus.md",
     "Stage/Suivi.md",
     "Notes/Belief & Plausibility.md",
     "Notes/Advanced AI - Decision Making.md",
@@ -206,16 +188,10 @@
     "Notes/Fourier-Gabor.md",
     "Notes/Texture.md",
     "Notes/Vision.md",
-    "Notes/Logistique.md",
     "Evaluations.md",
     "Notes/Législation.md",
-    "Notes/Interactions distribuées.md",
-    "Notes/Commande Référencée Vision.md",
-    "Homework/IHM multimodale - exo 3.md",
-    "Homework/Dialogue - Examen.md",
     "Screens/Pasted image 20231106090542.png",
     "Stage",
-    "Notes/Singular Value Decomposition.md",
     "Screens/Pasted image 20231023172349.png",
     "Polys/Vision.pdf",
     "Screens/Pasted image 20231023104044.png",
@@ -229,7 +205,6 @@
     "Polys/motion_planning_rtt_algorithms.pdf",
     "Polys/motion_planning_rtt_algorithms_compressed.pdf",
     "Screens/Pasted image 20231018145214.png",
-    "Screens/SmartSelect_20231002_134119_touchnotes.jpg",
     "Untitled.canvas"
   ]
 }

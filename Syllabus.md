@@ -14,11 +14,11 @@ UE2
 	- [[Motion planning]]
 
 UE3
-- Mineure Robotique
+- [[Mineure Robotique]]
 	- [[Robotique Humanoïde]]
 	- Optimisation de trajectoires et CRV
 		- [[Commande Référencée Vision]]
-- [[Multithreading & Safety]]
+- Multithreading & Safety
 
 UE4
 - Gestion de projet, Coaching PGE, Agilité, Logistique
@@ -26,6 +26,6 @@ UE4
 - Systèmes interactifs
 	- [[Vision]]
 	- [[Advanced AI - Decision Making]]
-	- [[IHM multimodale]]
-	- [[IA et dialogue oral]]
+	- IHM multimodale
+	- IA et dialogue oral
 	- [[Interactions distribuées]]
