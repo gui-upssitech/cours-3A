@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mineure Robotique.md",
+                "file": "Notes/Filtrage particulaire et SLAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00241736c97a5653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Particle Filtering procedure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mineure Robotique.md",
+                "file": "Notes/Particle Filtering procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mineure Robotique.md",
+                "file": "Notes/Particle Filtering procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mineure Robotique.md"
+                "file": "Notes/Particle Filtering procedure.md"
               }
             }
           },
@@ -157,13 +170,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b985713943954b59",
+  "active": "00241736c97a5653",
   "lastOpenFiles": [
+    "Notes/Filtrage particulaire et SLAM.md",
+    "Notes/Particle Filtering procedure.md",
+    "Notes/Particle.md",
+    "Notes/Monte Carlo.md",
     "Syllabus.md",
+    "PGE.md",
+    "Notes/Mineure Robotique.md",
     "Notes/VR as a disruptive innovation.md",
     "Notes/IA et dialogue oral.md",
-    "Notes/Mineure Robotique.md",
-    "Notes/Filtrage particulaire et SLAM.md",
     "Notes/Coop Multi-robots.md",
     "Homework/IHM Multimodale.md",
     "Notes/Logistique.md",
@@ -182,14 +199,10 @@
     "Notes/Utility.md",
     "Notes/Policy Iteration.md",
     "Notes/Markov Decision Process.md",
-    "PGE.md",
     "Stage/Recherche stage.md",
     "Stage/Gestion de crise.md",
     "Notes/Fourier-Gabor.md",
     "Notes/Texture.md",
-    "Notes/Vision.md",
-    "Evaluations.md",
-    "Notes/Législation.md",
     "Screens/Pasted image 20231106090542.png",
     "Stage",
     "Screens/Pasted image 20231023172349.png",
