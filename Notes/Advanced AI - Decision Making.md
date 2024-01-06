@@ -2,6 +2,8 @@ Tags: #advanced-ai
 
 Lien vers [[poly_ia_avancee.pdf|poly]]
 
+Goldmine of information : [Reinforcement Learning By the Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
+
 # Key terms
 
 **Nature** typically refers to the external environment, circumstances, or events that are beyond the control of the decision maker (DM). Nature represents the uncertainty and variability in the outcomes or consequences associated with different choices or actions made by the decision maker.
