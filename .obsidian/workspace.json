@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "449cdc71425c6f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stuff to finish.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Advanced AI - Decision Making.md",
+                "file": "Notes/Stuff to finish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Advanced AI - Decision Making.md",
+                "file": "Notes/Stuff to finish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Advanced AI - Decision Making.md"
+                "file": "Notes/Stuff to finish.md"
               }
             }
           },
@@ -170,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00241736c97a5653",
+  "active": "449cdc71425c6f1a",
   "lastOpenFiles": [
+    "Notes/Advanced AI - Decision Making.md",
+    "Notes/Stuff to finish.md",
     "Syllabus.md",
     "Notes/Particle Filtering procedure.md",
     "Notes/Filtrage particulaire et SLAM.md",
@@ -195,14 +209,12 @@
     "Notes/State Estimation.md",
     "Stage/Suivi.md",
     "Notes/Belief & Plausibility.md",
-    "Notes/Advanced AI - Decision Making.md",
     "Notes/Utility.md",
     "Notes/Policy Iteration.md",
     "Notes/Markov Decision Process.md",
     "Stage/Recherche stage.md",
     "Stage/Gestion de crise.md",
     "Notes/Fourier-Gabor.md",
-    "Notes/Texture.md",
     "Screens/Pasted image 20231106090542.png",
     "Stage",
     "Screens/Pasted image 20231023172349.png",
