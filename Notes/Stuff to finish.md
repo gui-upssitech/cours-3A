@@ -7,8 +7,8 @@ Lien Moodle : https://moodle.univ-tlse3.fr/mod/assign/view.php?id=422195
 
 #### Todo
 - [x] TP1
-- [ ] TP2
-- [ ] TP3
+- [x] TP2
+- [x] TP3
 - [x] TP4
 - [ ] TP5
 - [ ] TP6
