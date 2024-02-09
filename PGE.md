@@ -18,3 +18,17 @@ Nouvelle spec a la fin du mois
 Diagramme d'interaction
 
 Plus détailler les use cases
+
+
+
+### Debrief
+
+- équipe gestion :
+	- trop déconnectée du projet -> on sait pas ce qui se passe
+	- trop "hands-off" -> en laissant trop d'autonomie c'est devenu le sbeul
+	- manque d'autorité -> les fois ou on a essayé de demander des choses on nous a /ignore
+- équipe vision :
+	- très peu de gens on bossés au final
+- équipe IHM
+	- gros problèmes de communication, on savait pas ce que vous faisiez
+	- 

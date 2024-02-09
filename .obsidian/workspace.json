@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stuff to finish.md",
+                "file": "PGE.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Stuff to finish.md",
+                "file": "PGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Stuff to finish.md",
+                "file": "PGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Stuff to finish.md"
+                "file": "PGE.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "449cdc71425c6f1a",
   "lastOpenFiles": [
-    "Notes/Advanced AI - Decision Making.md",
     "Notes/Stuff to finish.md",
+    "Notes/Advanced AI - Decision Making.md",
     "Syllabus.md",
     "Notes/Particle Filtering procedure.md",
     "Notes/Filtrage particulaire et SLAM.md",
