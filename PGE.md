@@ -31,4 +31,9 @@ Plus détailler les use cases
 	- très peu de gens on bossés au final
 - équipe IHM
 	- gros problèmes de communication, on savait pas ce que vous faisiez
-	- 
+	- début d'intégration avec le reste du code bcp trop tard !
+- équipe Robotique
+	- trop de focus sur la simu, pas assez sur les tests IRL
+- général
+	- Investissement très hétérogène
+	- communication bancale
