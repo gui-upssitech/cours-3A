@@ -23,8 +23,12 @@
             "id": "c6dacba8e9d08545",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Advanced AI - Decision Making.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Homework/IA avancée - TP 1.md",
+            "file": "Notes/Advanced AI - Decision Making.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Homework/IA avancée - TP 1.md",
+            "file": "Notes/Advanced AI - Decision Making.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Homework/IA avancée - TP 1.md"
+            "file": "Notes/Advanced AI - Decision Making.md"
           }
         }
       },
@@ -150,16 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac8c026c4cf237fc",
+  "active": "c6dacba8e9d08545",
   "lastOpenFiles": [
-    "Polys/sujet-tp-mpc.pdf",
+    "Syllabus.md",
     "Homework/IA avancée - TP 1.md",
+    "Polys/sujet-tp-mpc.pdf",
     "Homework/IA avancée - TP3.md",
     "Homework/IHM multimodale - exo 3.md",
     "Homework/IHM Multimodale.md",
     "Notes/Belief & Plausibility.md",
     "Notes/Advanced AI - Decision Making.md",
-    "Syllabus.md",
     "Notes/Filtrage particulaire et SLAM.md",
     "Homework/Dialogue DOHM Pizza.md",
     "Notes/Monte Carlo.md",

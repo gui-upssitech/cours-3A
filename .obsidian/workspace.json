@@ -11,15 +11,24 @@
             "id": "b985713943954b59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Filtrage particulaire et SLAM.md",
-                "mode": "source",
-                "source": false
+                "file": "Polys/syllabus 3A.pdf"
+              }
+            }
+          },
+          {
+            "id": "41f928607cbd0a3f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Filtrage particulaire et SLAM.md",
+                "file": "Polys/syllabus 3A.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Filtrage particulaire et SLAM.md",
+                "file": "Polys/syllabus 3A.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Filtrage particulaire et SLAM.md"
+                "file": "Polys/syllabus 3A.pdf"
               }
             }
           },
@@ -157,8 +166,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b985713943954b59",
+  "active": "41f928607cbd0a3f",
   "lastOpenFiles": [
+    "Syllabus.md",
+    "Notes/Filtrage particulaire et SLAM.md",
     "Notes/Advanced AI - Decision Making.md",
     "Project dockerify/Be Multi-robot.md",
     "Project dockerify/Index.md",
@@ -166,10 +177,8 @@
     "Stage/Recherche stage.md",
     "PGE.md",
     "Evaluations.md",
-    "Syllabus.md",
     "Notes/Stuff to finish.md",
     "Notes/Particle Filtering procedure.md",
-    "Notes/Filtrage particulaire et SLAM.md",
     "Notes/Particle.md",
     "Notes/Monte Carlo.md",
     "Notes/Mineure Robotique.md",
